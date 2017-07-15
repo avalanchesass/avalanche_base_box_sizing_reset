@@ -1,6 +1,8 @@
 # avalanchesass_base_box_sizing_reset
 Box sizing reset.
 
+**ATTENTION:** This package is outdated, you can find the latest release under a new name: https://www.npmjs.com/package/@avalanche/generic-box-sizing-reset
+
 ## Install
 ```
 npm install avalanchesass_base_box_sizing_reset --save
